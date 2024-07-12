@@ -63,7 +63,7 @@ git clone https://github.com/Chandan-devs-tech/Corso-Training-Bootstrap.git
 
 Install this project with:
 
-- cd blog-spot
+- cd corso-training-bootstrap
 - npm install
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -72,7 +72,7 @@ Install this project with:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 _Sana Tameem_
+👤 _Chandan Gupta_
 
 - GitHub: [@githubhandle](https://github.com/Chandan-devs-tech)
 - Twitter: [@twitterhandle](https://twitter.com/ChandanGuptaDev)
